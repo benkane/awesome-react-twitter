@@ -8,7 +8,7 @@
 - [People](#people)
 - [Contributors to this list](#contributors-to-this-list)
 
-## Twitter List
+## Twitter list
 
 Subscribe to the list on Twitter for a curated feed from the React and React Native community.
 
