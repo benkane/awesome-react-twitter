@@ -20,7 +20,7 @@ Subscribe to the list on Twitter for a curated feed from the React and React Nat
 - [@_chenglou](https://twitter.com/_chenglou) - Cheng Lou
 - [@cpojer](https://twitter.com/cpojer) - Christoph Nakazawa
 - [@_developit](https://twitter.com/_developit) - Jason Miller
-- [@](https://twitter.com/brian_d_vaughn) - Brian Vaughn
+- [@brian_d_vaughn](https://twitter.com/brian_d_vaughn) - Brian Vaughn
 - [@acdlite](https://twitter.com/acdlite) - Andrew Clark
 - [@cassidoo](https://twitter.com/cassidoo) - Cassidy Williams
 - [@dabit3](https://twitter.com/dabit3) - Nader Dabit
