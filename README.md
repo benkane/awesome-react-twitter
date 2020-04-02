@@ -1,4 +1,4 @@
-# awesome-react-twitter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome React Twitter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome awesome Twitter follows in the React and React Native community. Inspired by [awesome-react](https://github.com/enaqx/awesome-react) and [awesome-ios-twitter](https://github.com/carolanitz/Awesome-iOS-Twitter).
 
